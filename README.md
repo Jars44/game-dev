@@ -1,6 +1,5 @@
 # Game Dev
 
-## Description
 This is a 2D platformer game developed using the Godot Engine. The player controls a character who can run, jump, and collect coins and keys while avoiding hazards. The game features animated sprites, tile-based levels, and interactive elements like gates that open when keys are collected. This project from **Dea Afrizal**. 
 
 ## How to Run
