@@ -1,7 +1,7 @@
 # 2D Platformer Game
 
 ## Description
-This is a 2D platformer game developed using the Godot Engine (version 4.3 or compatible). Players control a character who can run, jump, and collect coins and keys while avoiding hazards. The game features animated sprites, tile-based levels, and interactive elements such as gates that open when keys are collected. This project was created by Dea Afrizal.
+This is a 2D platformer game developed using the Godot Engine (version 4.3 or compatible). Players control a character who can run, jump, and collect coins and keys while avoiding hazards. The game features animated sprites, tile-based levels, and interactive elements such as gates that open when keys are collected. This project is from Dea Afrizal.
 
 ## Features
 - Smooth player movement with running and jumping mechanics.
