@@ -1,6 +1,6 @@
 extends CharacterBody2D
 
-const SPEED = 450.0
+const SPEED = 350.0
 const JUMP_VELOCITY = -850.0
 @onready var player_ui: AnimatedSprite2D = $AnimatedSprite2D
 var start_position = Vector2.ZERO
