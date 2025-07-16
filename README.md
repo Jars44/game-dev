@@ -2,7 +2,6 @@
 
 [![Godot Engine](https://img.shields.io/badge/Godot-4.3-blue.svg)](https://godotengine.org/)
 
-## Project Description
 This is a 2D platformer game developed using the Godot Engine (version 4.3 or compatible). Players control a character who can run, jump, and collect coins and keys while avoiding hazards. The game features animated sprites, tile-based levels, and interactive elements such as gates that open when keys are collected. This project is created by Dea Afrizal.
 
 ## Features
